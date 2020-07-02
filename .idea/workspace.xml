@@ -26,7 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/TkinterExamples" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SocketExamples" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -36,10 +36,33 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\schappell\Documents\GitHub\YOM-Computer-Science-Camp\SocketExamples" />
       <recent name="C:\Users\schappell\Documents\GitHub\YOM-Computer-Science-Camp\TkinterExamples" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.example_2">
+  <component name="RunManager" selected="Python.client_program">
+    <configuration name="client_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YOM-Computer-Science-Camp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SocketExamples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SocketExamples/client_program.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="example_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YOM-Computer-Science-Camp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,8 +107,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="server_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YOM-Computer-Science-Camp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SocketExamples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SocketExamples/server_program.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.client_program" />
+        <item itemvalue="Python.server_program" />
         <item itemvalue="Python.example_2" />
         <item itemvalue="Python.example_1" />
       </list>
@@ -101,7 +148,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593690842714</updated>
-      <workItem from="1593690843983" duration="3759000" />
+      <workItem from="1593690843983" duration="4157000" />
+      <workItem from="1593695427760" duration="2370000" />
     </task>
     <servers />
   </component>
@@ -109,29 +157,31 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="635" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593692736157">
+    <state x="635" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593695489953">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="635" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593692736157" />
-    <state width="1264" height="247" key="GridCell.Tab.0.bottom" timestamp="1593694100770">
+    <state x="635" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593695489953" />
+    <state width="1264" height="247" key="GridCell.Tab.0.bottom" timestamp="1593697799316">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1264" height="247" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593694100770" />
-    <state width="1264" height="247" key="GridCell.Tab.0.center" timestamp="1593694100770">
+    <state width="1264" height="247" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593697799316" />
+    <state width="1264" height="247" key="GridCell.Tab.0.center" timestamp="1593697799316">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1264" height="247" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593694100770" />
-    <state width="1264" height="247" key="GridCell.Tab.0.left" timestamp="1593694100770">
+    <state width="1264" height="247" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593697799316" />
+    <state width="1264" height="247" key="GridCell.Tab.0.left" timestamp="1593697799316">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1264" height="247" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593694100770" />
-    <state width="1264" height="247" key="GridCell.Tab.0.right" timestamp="1593694100770">
+    <state width="1264" height="247" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593697799316" />
+    <state width="1264" height="247" key="GridCell.Tab.0.right" timestamp="1593697799316">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1264" height="247" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593694100770" />
+    <state width="1264" height="247" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593697799316" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/YOM_Computer_Science_Camp$example_1.coverage" NAME="example_1 Coverage Results" MODIFIED="1593693529557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TkinterExamples" />
+    <SUITE FILE_PATH="coverage/YOM_Computer_Science_Camp$client_program.coverage" NAME="client_program Coverage Results" MODIFIED="1593697768969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SocketExamples" />
     <SUITE FILE_PATH="coverage/YOM_Computer_Science_Camp$example_2.coverage" NAME="example_2 Coverage Results" MODIFIED="1593694100760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TkinterExamples" />
+    <SUITE FILE_PATH="coverage/YOM_Computer_Science_Camp$server_program.coverage" NAME="server_program Coverage Results" MODIFIED="1593697763192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SocketExamples" />
   </component>
 </project>
